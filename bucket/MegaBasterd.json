@@ -1,0 +1,23 @@
+{
+    "version": "7.46",
+    "description": "Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.",
+    "homepage": "https://github.com/tonikelope/megabasterd",
+    "license": {
+        "identifier": "GPL-3.0-only",
+        "url": "https://github.com/tonikelope/megabasterd/blob/master/LICENSE"
+    },
+    "url": "https://github.com/tonikelope/megabasterd/releases/download/v7.46/MegaBasterdWINDOWS_7.46_portable.zip",
+    "hash": "0c6682b6dc78891596bae2e6f458ba50d4541091439c78ef273720cc815d30ef",
+    "shortcuts": [
+        [
+            "MegaBasterd.bat",
+            "MegaBasterd"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/tonikelope/megabasterd/releases/download/v$version/MegaBasterdWINDOWS_$version_portable.zip"
+    },
+    "extract_dir": "MegaBasterdWINDOWS",
+    "bin": "MegaBasterd.bat"
+}

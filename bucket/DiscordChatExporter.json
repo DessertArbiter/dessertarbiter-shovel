@@ -1,13 +1,13 @@
 {
-    "version": "2.33.1",
+    "version": "2.33.2",
     "description": "Exports Discord chat logs to a file",
     "homepage": "https://github.com/Tyrrrz/DiscordChatExporter",
     "license": {
         "identifier": "GPL-3.0-only",
         "url": "https://github.com/Tyrrrz/DiscordChatExporter/blob/master/License.txt"
     },
-    "url": "https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.33.1/DiscordChatExporter.zip",
-    "hash": "33e5fa12c76401e6c63db02c4f505eb4e6936dacdce4398fc98540c285f2c8b2",
+    "url": "https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.33.2/DiscordChatExporter.zip",
+    "hash": "3c344cf7b8bf024068043136e12ca98f7bf59badae41197c478fafd7e4b13b1e",
     "bin": "DiscordChatExporter.exe",
     "shortcuts": [
         [

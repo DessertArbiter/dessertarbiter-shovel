@@ -1,13 +1,13 @@
 {
-    "version": "4.0.0-beta.1",
+    "version": "3.4.0",
     "description": "GUI for installing apps through WinGet and Creating Yaml file",
     "homepage": "https://github.com/HandyOrg/HandyWinGet",
     "license": {
         "identifier": "MIT",
         "url": "https://github.com/HandyOrg/HandyWinGet/blob/master/LICENSE"
     },
-    "url": "https://github.com/HandyOrg/HandyWinGet/releases/download/v4.0.0-beta.1/HandyWinget-Portable.zip",
-    "hash": "EF1F687E56DAC3A25A046EBE9C6B6E60127A0CFBAFF1260963D9D08AD1EB884E",
+    "url": "https://github.com/HandyOrg/HandyWinGet/releases/download/v3.4.0/HandyWinget-Portable.zip",
+    "hash": "463cefcb97090a69bc94a25d721a50aeb4a84e9a9552ea317c6b8437db34462c",
     "shortcuts": [
         [
             "HandyWinget.exe",

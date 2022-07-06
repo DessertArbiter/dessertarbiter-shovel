@@ -1,13 +1,13 @@
 {
-    "version": "1.8.0",
+    "version": "1.9.0",
     "description": "GameCube File Tools, a GUI tool for modifying some common file formats used by GameCube games",
     "homepage": "https://github.com/LagoLunatic/GCFT",
     "license": {
         "identifier": "MIT",
         "url": "https://github.com/LagoLunatic/GCFT/blob/master/LICENSE.txt"
     },
-    "url": "https://github.com/LagoLunatic/GCFT/releases/download/1.8.0/GameCube_File_Tools_1.8.0_64bit.zip",
-    "hash": "eb65e639d037596416f900efd3ae156560a23be406987e868cb25c3e7255e72e",
+    "url": "https://github.com/LagoLunatic/GCFT/releases/download/1.9.0/GameCube_File_Tools_1.9.0_64bit.zip",
+    "hash": "de5d29c9b92be4e0be1ac3a1190d29e6a6598a9dff42ae0ce24148da18b8b86a",
     "bin": "GameCube File Tools.exe",
     "shortcuts": [
         [
